@@ -281,5 +281,4 @@ public class ATMINTERFACE {
     }
 }
 /* The conditions are made in a simple flow manner the repeation of the conditons are made in certain place where need as like real world scnerio
--A speial case if we have less amount in withdraw it will ask for deposit
  */
